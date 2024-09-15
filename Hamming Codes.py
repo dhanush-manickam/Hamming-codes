@@ -70,5 +70,5 @@ def encoder(encode_list, unencoded_data):
 print(f"This is where the error: {error_postition}")
 
 
-# calling the function
+# calling the encoder function
 encoder(encode_list, data)
